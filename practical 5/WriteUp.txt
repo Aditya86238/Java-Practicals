@@ -1,1 +1,15 @@
+OBSERVATION : 
+1.Time required for both method is approximately equal
+
+
+if(isPrime)
+{
+prime_count++;
+}
+else
+{
+Non_Prime_Count++;
+}
+
+
 
