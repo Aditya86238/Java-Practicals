@@ -1,7 +1,7 @@
 OBSERVATION : 
 1.Time required for both method is approximately equal
 
-
+METHOD 1:
 if(isPrime)
 {
 prime_count++;
@@ -11,5 +11,13 @@ else
 Non_Prime_Count++;
 }
 
-
+METHOD 2:
+if(is_Non_Prime)
+{
+Non_prime_count++;
+}
+else
+{
+Prime_Count++;
+}
 
